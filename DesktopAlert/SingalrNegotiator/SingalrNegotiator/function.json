@@ -1,0 +1,28 @@
+{
+  "disabled": false,
+  "bindings": [
+    {
+      "authLevel": "anonymous",
+      "type": "httpTrigger",
+      "direction": "in",
+      "methods": [
+        "post"
+      ],
+      "name": "req",
+      "route": "negotiate"
+    },
+    {
+      "type": "http",
+      "direction": "out",
+      "name": "res"
+    },
+    {
+      "type": "signalRConnectionInfo",
+      "name": "connectionInfo",
+      "hubName": "default",
+      "connectionStringSetting": "AzureSignalRConnectionString",
+      "direction": "in"
+    }
+  ],
+  "scriptFile": "../dist/SingalrNegotiator/index.js"
+}
