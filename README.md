@@ -3,7 +3,14 @@
 
 # Keep Your Toilet Clean and Keep Your Partner Happy
 
-Put an overview video here
+This is an alert system to keep your toilet clean and keep your partner happy.(If he/she doesn't like your way of using toilet.lol)
+With this system, if you leave bathroom without closing the toilet lid , the unique alert system and a desktop notification let you know you forget to close the lid.
+
+Check the demonstration on youtube.
+https://youtu.be/lbmWat5kvqQ
+
+See my dev.to post about his system.
+https://dev.to/iron_samurai/azure-trial-hackathon-submission-post-placeholder-title-l7f-temp-slug-9976056?preview=b2e5c1e09dc8dcb0ef66921823741e964c579cfadde56dfdc467701521d9c98272dd82f39ab4366b288140d8768e624a51e3d09862a96f5880ad47bc
 
 # Why I built this system
 Have you ever been told to close the toilet lid?  
